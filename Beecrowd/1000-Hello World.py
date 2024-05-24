@@ -1,1 +1,3 @@
-print("Hello World!")
+import __hello__
+
+__hello__.main()
